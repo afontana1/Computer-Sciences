@@ -1,5 +1,6 @@
 # Computer Science Related material
 -https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start
+-https://en.wikipedia.org/wiki/Metaheuristic
 
 ## Algorithms
 - http://planning.cs.uiuc.edu/web.html

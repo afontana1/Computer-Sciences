@@ -26,6 +26,7 @@
 
 **NLP**
 - https://web.stanford.edu/~jurafsky/slp3/
+- https://nlp.stanford.edu/IR-book/information-retrieval-book.html
 
 ### People
 - http://www.jblumenstock.com/

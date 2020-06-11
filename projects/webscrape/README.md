@@ -1,4 +1,4 @@
-# T-Rex Group Assessment
+# Webscrape
 
 This collection of files contains source code used in automating the extraction, transformation, and loading of finsight data. The objective is to extract data from xml files located on the website, flatten them, and publish to a "database"; along with metadata scraped off the html. 
 

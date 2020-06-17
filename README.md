@@ -25,3 +25,4 @@
 - http://www.cs.cmu.edu/~avrim/
 - http://people.csail.mit.edu/kuat/
 - https://khemlani.net/
+- https://www.researchgate.net/scientific-contributions/2108621468_David_A_Schum

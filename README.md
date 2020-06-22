@@ -26,3 +26,9 @@
 - http://people.csail.mit.edu/kuat/
 - https://khemlani.net/
 - https://www.researchgate.net/scientific-contributions/2108621468_David_A_Schum
+
+## Computer Networks
+- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/
+
+## Cognitive studies
+- http://cognet.mit.edu/

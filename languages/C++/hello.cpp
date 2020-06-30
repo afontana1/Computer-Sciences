@@ -1,5 +1,8 @@
-#include<stdio.h>
-int main(){
-	printf("YO");
-	return 1;
+#include <iostream>
+
+using namespace std;
+
+main()
+{
+	std::cout<<"YO"<<std::endl;
 }

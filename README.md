@@ -1,4 +1,6 @@
 # Computer Science Related material
+- https://www.sanfoundry.com/
+- https://rosettacode.org/wiki/Rosetta_Code
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
 - https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start
 - https://www.ics.uci.edu/~brgallar/

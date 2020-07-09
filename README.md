@@ -18,6 +18,7 @@
 - https://en.wikipedia.org/wiki/Category:Artificial_intelligence
 - https://en.wikipedia.org/wiki/Category:Decision_support_systems
 - https://en.wikipedia.org/wiki/Category:Expert_systems
+- https://en.wikipedia.org/wiki/Case-based_reasoning
 - https://en.wikipedia.org/wiki/Category:Collective_intelligence
 - https://en.wikipedia.org/wiki/Category:Multi-agent_systems
 - https://en.wikipedia.org/wiki/Category:Concepts

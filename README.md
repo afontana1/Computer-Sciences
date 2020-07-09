@@ -7,6 +7,7 @@
 
 ## Algorithms
 - http://planning.cs.uiuc.edu/web.html
+- https://en.wikipedia.org/wiki/Automated_planning_and_scheduling
 - https://algs4.cs.princeton.edu/home/
 - http://jeffe.cs.illinois.edu/teaching/algorithms/
 - https://en.wikipedia.org/wiki/Metaheuristic
@@ -17,11 +18,14 @@
 - https://en.wikipedia.org/wiki/Category:Artificial_intelligence
 - https://en.wikipedia.org/wiki/Category:Collective_intelligence
 - https://en.wikipedia.org/wiki/Category:Multi-agent_systems
+- https://en.wikipedia.org/wiki/Category:Concepts
+- https://en.wikipedia.org/wiki/Category:Reasoning
 
 ## C++ programming
 - https://gitlab.math.ethz.ch/NumCSE/NumCSE
 
-## combinatorics
+## Combinatorics and Theory
+- https://en.wikipedia.org/wiki/Mathematical_logic
 
 ## optimization / numerical
 - https://en.wikipedia.org/wiki/Category:Mathematical_optimization
@@ -35,6 +39,8 @@
 - https://khemlani.net/
 - https://www.researchgate.net/scientific-contributions/2108621468_David_A_Schum
 - https://lara.epfl.ch/w/
+- https://amturing.acm.org/award_winners/pearl_2658896.cfm
+- https://en.wikipedia.org/wiki/Douglas_N._Walton
 
 ## Computer Networks
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/

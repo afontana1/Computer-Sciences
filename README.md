@@ -4,6 +4,9 @@
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
 - https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start
 - https://www.ics.uci.edu/~brgallar/
+- https://en.wikipedia.org/wiki/Programming_paradigm
+- https://en.wikipedia.org/wiki/Category:Data_types
+- https://en.wikipedia.org/wiki/Category:Programming_constructs
 
 ## Algorithms
 - http://planning.cs.uiuc.edu/web.html

@@ -82,14 +82,6 @@ def is_paren_balanced(paren_string):
     else:
         return False
 
-print("String : (((({})))) Balanced or not?")
-print(balanced_Parenthesis("(((({}))))"))
-
-print("String : [][]]] Balanced or not?")
-print(balanced_Parenthesis("[][]]]"))
-
-print("String : [][] Balanced or not?")
-print(balanced_Parenthesis("[][]"))
 
 def reverse_string(string):
 	s = Stack()
@@ -102,7 +94,6 @@ def reverse_string(string):
 		s.pop()
 	return rev_string
 input_str = "muM rU"
-print(reverse_string(input_str))
 
 def integer_to_binary(integer):
 	quotient = integer
@@ -119,4 +110,15 @@ def integer_to_binary(integer):
 
 	return binary
 
-print(integer_to_binary(242))
+if __name__ == "__main__":
+	print("String : (((({})))) Balanced or not?")
+	print(balanced_Parenthesis("(((({}))))"))
+
+	print("String : [][]]] Balanced or not?")
+	print(balanced_Parenthesis("[][]]]"))
+
+	print("String : [][] Balanced or not?")
+	print(balanced_Parenthesis("[][]"))
+
+	print(reverse_string(input_str))
+	print(integer_to_binary(242))

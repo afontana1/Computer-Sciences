@@ -75,3 +75,34 @@ function balanced(testVariable, startIndex = 0, currentIndex = 0) {
 }
 
 testVariable = ["(", ")", "(", ")"]
+
+function sort(testVariable, length) {
+	// Base case
+	if (length <= 1) {
+		return
+  }
+	
+	// Recursive case
+	// Call sort() again for first n - 1 elements
+	sort(testVariable, length - 1)
+
+	// Insert last element at its correct position in sorted array
+	var lastElement = testVariable[length - 1] // fetch the last element
+	var temp = length - 2 // start finding its correct location from one element before it
+	
+	// Move elements of testVariable[0..i-1], that are greater than key, to one position ahead of their current position 
+	while (temp >= 0 && testVariable[temp] > lastElement) {
+		testVariable[temp + 1] = testVariable[temp]
+		temp = temp - 1
+  }
+
+	testVariable[temp + 1] = lastElement // place the element in its correct position
+}
+
+
+// Driver Code
+testVariable = [5, 4, 2, 3, 1]
+console.log("Original Array ---> " + testVariable)
+
+sort(testVariable, testVariable.length)
+console.log("Modified Array ---> " + testVariable)

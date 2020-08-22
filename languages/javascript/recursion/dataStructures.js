@@ -7,6 +7,16 @@ class Node {
 	}
 }
 
+class TreeNode {
+
+	// constructor
+	constructor(data) {
+		this.data = data;
+		this.left = null;
+		this.right = null;
+	}
+}
+
 
 class LinkedList {
 	

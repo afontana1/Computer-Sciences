@@ -2,9 +2,9 @@
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
 - https://rosettacode.org/wiki/Rosetta_Code
 - https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start
-- https://www.ics.uci.edu/~brgallar/
 - https://www.sanfoundry.com/
 - https://lara.epfl.ch/w/
+- https://www.ics.uci.edu/~brgallar/
 
 ## Algorithms
 - http://planning.cs.uiuc.edu/web.html
@@ -14,6 +14,7 @@
 - https://users.cs.duke.edu/~kamesh/cps296.html
 - https://cse.buffalo.edu/~shil/courses/CSE632-Fall2017/
 - https://courses.engr.illinois.edu/cs583/fa2013/
+- http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html
 
 ## AI
 - https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence
@@ -51,3 +52,4 @@
 - **Judea Pearl:** https://amturing.acm.org/award_winners/pearl_2658896.cfm
 - **Charu Aggarwal:** http://www.charuaggarwal.net/
 - **Tim Roughgarden:** http://timroughgarden.org/
+- **David Epstein:** https://www.ics.uci.edu/~eppstein/teach.html

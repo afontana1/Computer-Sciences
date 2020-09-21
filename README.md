@@ -5,6 +5,7 @@
 - https://www.sanfoundry.com/
 - https://lara.epfl.ch/w/
 - https://www.ics.uci.edu/~brgallar/
+- https://www.elsevier.com/books-and-journals/morgan-kaufmann
 
 ## Algorithms
 - http://planning.cs.uiuc.edu/web.html

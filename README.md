@@ -13,6 +13,7 @@
 - https://vectorinstitute.ai/#people
 - https://cci.mit.edu/research/
 - https://toc.csail.mit.edu/
+- https://poloclub.github.io/
 
 ## Algorithms
 - http://planning.cs.uiuc.edu/web.html
@@ -67,3 +68,5 @@
 - **Jürgen Schmidhuber:** http://people.idsia.ch/~juergen/rl.html
 - **Gergely Neu:** http://cs.bme.hu/~gergo/
 - **Jimmy Ba:** https://jimmylba.github.io/
+- **Duen Horng (Polo) Chau:** https://poloclub.github.io/polochau/
+- **John N. Tsitsiklis:** https://www.mit.edu/~jnt/home.html

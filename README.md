@@ -6,6 +6,11 @@
 - https://www.ics.uci.edu/~brgallar/
 - https://www.elsevier.com/books-and-journals/morgan-kaufmann
 
+## Classes
+- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
+- https://ocw.mit.edu/courses/mathematics/18-212-algebraic-combinatorics-spring-2019/
+- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/index.htm
+
 ## Organizations
 - https://whirl.cs.ox.ac.uk/
 - http://www.imperial.ac.uk/machine-learning/

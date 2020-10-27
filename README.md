@@ -5,6 +5,7 @@
 - https://lara.epfl.ch/w/
 - https://www.ics.uci.edu/~brgallar/
 - https://www.elsevier.com/books-and-journals/morgan-kaufmann
+- https://python.hotexamples.com/
 
 ## Classes
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
@@ -29,6 +30,8 @@
 - https://courses.engr.illinois.edu/cs583/fa2013/
 - http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/
+- https://toc.seas.harvard.edu/links/cs-229r-topics-theory-computation-algorithms-big-data
+- https://toc.seas.harvard.edu/links/cs-229r-information-theory-computer-science
 
 ## AI
 - https://www.sciencedirect.com/topics/engineering/swarm-intelligence
@@ -75,3 +78,21 @@
 - **Jimmy Ba:** https://jimmylba.github.io/
 - **Duen Horng (Polo) Chau:** https://poloclub.github.io/polochau/
 - **John N. Tsitsiklis:** https://www.mit.edu/~jnt/home.html
+
+## Systems
+- **Richard Murray:** http://www.cds.caltech.edu/~murray/wiki/Main_Page
+- http://www.cds.caltech.edu/~murray/amwiki/index.php/Main_Page
+- http://www.cds.caltech.edu/~murray/courses/cds110/fa02/
+- https://pages.jh.edu/~bcooper8/sigma_files/courses/214/Signals_Home.html
+- https://www.apmonitor.com/pdc/index.php
+- https://ctms.engin.umich.edu/CTMS/index.php?aux=Home
+- https://en.wikibooks.org/wiki/Control_Systems
+
+### Systems certificates
+- https://lsa.umich.edu/cscs/graduate-students/complex-systems-graduate-certificate.html#:~:text=The%20Center%20for%20the%20Study,Graduate%20Studies%20in%20Complex%20Systems.
+- https://www.binghamton.edu/ssie/graduate/certificate-complex-systems.html
+- https://online.engineering.arizona.edu/online-programs/systems-engineering/graduate-certificate-in-systems-engineering/
+- https://catalogs.nmsu.edu/nmsu/engineering/industrial-engineering/systems-engineering-certificate/
+- https://umdearborn.edu/cecs/graduate-programs/certificates/control-systems
+- https://ualr.edu/systemsengineering/programs/graduate/certificate/
+- http://bulletin.iit.edu/graduate/colleges/engineering/ece/control-systems-certificate/#programrequirementstext

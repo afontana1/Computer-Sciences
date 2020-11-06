@@ -14,6 +14,7 @@
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/index.htm
 - https://en.wikipedia.org/wiki/Category:Applied_mathematics
 - https://en.wikipedia.org/wiki/Category:Probability_theory
+- https://en.wikipedia.org/wiki/Information_theory
 
 ## Organizations
 - https://whirl.cs.ox.ac.uk/
@@ -37,7 +38,6 @@
 - https://toc.seas.harvard.edu/links/cs-229r-information-theory-computer-science
 
 ## AI
-- https://www.sciencedirect.com/topics/engineering/swarm-intelligence
 - **RL:** https://spinningup.openai.com/en/latest/index.html
 - **RL:** http://rl.cs.mcgill.ca/index.html
 - **RL:** http://www.imperial.ac.uk/machine-learning/research/theory/reinforcement-online-learning/
@@ -45,16 +45,12 @@
 ## optimization / numerical
 - https://gitlab.math.ethz.ch/NumCSE/NumCSE
 - https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/
-- https://en.wikipedia.org/wiki/Category:Mathematical_optimization
-- https://www.sciencedirect.com/science/article/abs/pii/S0360835219304991
 
 ### networks / Complexity
 - http://studycas.com/
 - https://www.complexityexplorer.org/
 - https://systemsinnovation.io/course/
 - http://www.network-science.org/
-
-## Computer Networks
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/
 
 ## Concepts
@@ -64,7 +60,8 @@
 - https://en.wikipedia.org/wiki/Category:Programming_constructs
 - https://en.wikipedia.org/wiki/Collective_intelligence
 - https://en.wikipedia.org/wiki/Category:Multi-agent_systems
-
+- https://en.wikipedia.org/wiki/Category:Directed_graphs
+- https://en.wikipedia.org/wiki/Category:Random_graphs
 
 ## People
 - **Avrim Blum:** http://www.cs.cmu.edu/~avrim/

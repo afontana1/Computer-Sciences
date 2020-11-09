@@ -6,6 +6,7 @@
 - https://www.ics.uci.edu/~brgallar/
 - https://www.elsevier.com/books-and-journals/morgan-kaufmann
 - https://python.hotexamples.com/
+- https://github.com/realpython
 
 ## Classes
 - https://ee.caltech.edu/academics/course_desc
@@ -62,6 +63,12 @@
 - https://en.wikipedia.org/wiki/Category:Multi-agent_systems
 - https://en.wikipedia.org/wiki/Category:Directed_graphs
 - https://en.wikipedia.org/wiki/Category:Random_graphs
+- https://en.wikipedia.org/wiki/Digital_electronics
+- https://en.wikipedia.org/wiki/Category:Knowledge_representation
+- https://en.wikipedia.org/wiki/Category:Diagrams
+- https://en.wikipedia.org/wiki/Category:Application-specific_graphs
+- https://en.wikipedia.org/wiki/Information_mapping
+- https://en.wikipedia.org/wiki/Symbol_grounding_problem
 
 ## People
 - **Avrim Blum:** http://www.cs.cmu.edu/~avrim/

@@ -6,13 +6,19 @@
 - https://www.ics.uci.edu/~brgallar/
 
 ## Classes
-- https://ee.caltech.edu/academics/course_desc
-- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
 - https://ocw.mit.edu/courses/mathematics/18-212-algebraic-combinatorics-spring-2019/
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/index.htm
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/
 - https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/
+- https://www.edx.org/xseries/mitx-18.03x-differential-equations
+- https://www.edx.org/xseries/mitx-circuits-and-electronics
+- https://www.coursera.org/specializations/robotics
+- https://www.coursera.org/specializations/reinforcement-learning
+- https://www.coursera.org/specializations/bioinformatics
+- https://www.coursera.org/specializations/systems-biology
+- https://www.coursera.org/specializations/natural-language-processing
+
 
 ### Algorithms
 - http://planning.cs.uiuc.edu/web.html
@@ -40,6 +46,7 @@
 - **RL:** https://spinningup.openai.com/en/latest/index.html
 - **RL:** http://rl.cs.mcgill.ca/index.html
 - **RL:** http://www.imperial.ac.uk/machine-learning/research/theory/reinforcement-online-learning/
+- http://pages.cs.wisc.edu/~dyer/cs540/
 
 ### optimization / numerical
 - https://gitlab.math.ethz.ch/NumCSE/NumCSE
@@ -49,6 +56,8 @@
 - https://www.complexityexplorer.org/
 - https://systemsinnovation.io/course/
 - http://www.network-science.org/
+- http://networksciencebook.com/
+- https://barabasi.com/
 
 ### Languages
 - https://python.hotexamples.com/
@@ -79,6 +88,7 @@
 - **Duen Horng (Polo) Chau:** https://poloclub.github.io/polochau/
 - **John N. Tsitsiklis:** https://www.mit.edu/~jnt/home.html
 - **Richard Murray:** http://www.cds.caltech.edu/~murray/wiki/Main_Page
+- **Stuart Russell:** https://people.eecs.berkeley.edu/~russell/
 
 ## Concepts
 - https://en.wikipedia.org/wiki/Category:Data

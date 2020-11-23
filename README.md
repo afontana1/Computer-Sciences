@@ -89,6 +89,7 @@
 - **John N. Tsitsiklis:** https://www.mit.edu/~jnt/home.html
 - **Richard Murray:** http://www.cds.caltech.edu/~murray/wiki/Main_Page
 - **Stuart Russell:** https://people.eecs.berkeley.edu/~russell/
+- **Marvin Minsky:** https://web.media.mit.edu/~minsky/
 
 ## Concepts
 - https://en.wikipedia.org/wiki/Category:Data

@@ -108,7 +108,9 @@
 - https://en.wikipedia.org/wiki/Symbol_grounding_problem
 - https://en.wikipedia.org/wiki/Category:Applied_mathematics
 - https://en.wikipedia.org/wiki/Category:Probability_theory
-- https://en.wikipedia.org/wiki/Information_theory
+- https://en.wikipedia.org/wiki/Category:Information_theory
+- https://en.wikipedia.org/wiki/Category:Algorithmic_information_theory
+- https://en.wikipedia.org/wiki/Category:Randomized_algorithms
 
 ### Systems certificates
 - https://lsa.umich.edu/cscs/graduate-students/complex-systems-graduate-certificate.html#:~:text=The%20Center%20for%20the%20Study,Graduate%20Studies%20in%20Complex%20Systems.

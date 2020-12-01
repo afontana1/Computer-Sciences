@@ -6,7 +6,13 @@
 - https://www.coursera.org/specializations/aml
 - https://www.coursera.org/specializations/probabilistic-graphical-models
 - https://www.coursera.org/specializations/data-mining
-
+- https://www.edx.org/xseries/mitx-18.03x-differential-equations
+- https://www.edx.org/xseries/mitx-circuits-and-electronics
+- https://www.coursera.org/specializations/robotics
+- https://www.coursera.org/specializations/reinforcement-learning
+- https://www.coursera.org/specializations/bioinformatics
+- https://www.coursera.org/specializations/systems-biology
+- https://www.coursera.org/specializations/natural-language-processing
 
 ### Additional resources
 **ML**
@@ -28,14 +34,8 @@
 - https://web.stanford.edu/~jurafsky/slp3/
 - https://nlp.stanford.edu/IR-book/information-retrieval-book.html
 
-### People
-- http://www.jblumenstock.com/
-- http://lavalle.pl/index.html
-- http://www.cs.cmu.edu/~mmv/
-- https://dawenl.github.io/
-- https://www.inference.vc/
-- https://kaybrodersen.github.io/
-- https://christophm.github.io/interpretable-ml-book/
-- https://users.soe.ucsc.edu/~maw/
-- http://www.mit.edu/~moshref/Research.html
-- http://verbs.colorado.edu/~mpalmer/Ling7800/spring17.html
+**AI**
+- https://spinningup.openai.com/en/latest/index.html
+- http://rl.cs.mcgill.ca/index.html
+- http://www.imperial.ac.uk/machine-learning/research/theory/reinforcement-online-learning/
+- http://pages.cs.wisc.edu/~dyer/cs540/

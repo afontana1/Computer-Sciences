@@ -6,12 +6,8 @@
 - https://www.coursera.org/specializations/aml
 - https://www.coursera.org/specializations/probabilistic-graphical-models
 - https://www.coursera.org/specializations/data-mining
-- https://www.edx.org/xseries/mitx-18.03x-differential-equations
-- https://www.edx.org/xseries/mitx-circuits-and-electronics
-- https://www.coursera.org/specializations/robotics
 - https://www.coursera.org/specializations/reinforcement-learning
 - https://www.coursera.org/specializations/bioinformatics
-- https://www.coursera.org/specializations/systems-biology
 - https://www.coursera.org/specializations/natural-language-processing
 
 ### Additional resources

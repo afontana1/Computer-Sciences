@@ -37,3 +37,4 @@
 - **Marilyn Walker:** https://users.soe.ucsc.edu/~maw/
 - **Martha Palmer:** http://verbs.colorado.edu/~mpalmer/Ling7800/spring17.html
 - **Viktor Kuncak:** https://lara.epfl.ch/w/
+- **John Pollock:** https://johnpollock.us/ftp/publications.html , https://en.wikipedia.org/wiki/John_L._Pollock

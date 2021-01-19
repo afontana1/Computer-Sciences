@@ -1,6 +1,7 @@
 # AppliedMachineLearning
 
 - Paste the github link here if you cannot open the .ipynb extension: https://nbviewer.jupyter.org/
+- https://en.wikipedia.org/wiki/Multi-armed_bandit
 
 ## Additional related courses
 - https://www.coursera.org/specializations/aml

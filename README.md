@@ -2,15 +2,6 @@
 - https://rosettacode.org/wiki/Rosetta_Code
 - https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start
 
-## Organizations
-- https://whirl.cs.ox.ac.uk/
-- http://www.imperial.ac.uk/machine-learning/
-- https://team.inria.fr/sequel/
-- https://vectorinstitute.ai/#people
-- https://cci.mit.edu/research/
-- https://toc.csail.mit.edu/
-- https://poloclub.github.io/
-
 ## People
 - **Avrim Blum:** http://www.cs.cmu.edu/~avrim/
 - **Kuat Yessenov:** http://people.csail.mit.edu/kuat/
@@ -37,4 +28,4 @@
 - **Marilyn Walker:** https://users.soe.ucsc.edu/~maw/
 - **Martha Palmer:** http://verbs.colorado.edu/~mpalmer/Ling7800/spring17.html
 - **Viktor Kuncak:** https://lara.epfl.ch/w/
-- **John Pollock:** https://johnpollock.us/ftp/publications.html , https://en.wikipedia.org/wiki/John_L._Pollock
+- **John Pollock:** https://johnpollock.us/ftp/publications.html

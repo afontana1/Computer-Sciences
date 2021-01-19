@@ -3,9 +3,7 @@
 - https://algs4.cs.princeton.edu/home/
 - http://jeffe.cs.illinois.edu/teaching/algorithms/
 - https://users.cs.duke.edu/~kamesh/cps296.html
-- https://cse.buffalo.edu/~shil/courses/CSE632-Fall2017/
 - https://courses.engr.illinois.edu/cs583/fa2013/
 - http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html
 - https://toc.seas.harvard.edu/links/cs-229r-topics-theory-computation-algorithms-big-data
 - https://toc.seas.harvard.edu/links/cs-229r-information-theory-computer-science
-- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/

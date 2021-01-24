@@ -29,3 +29,4 @@
 - **Martha Palmer:** http://verbs.colorado.edu/~mpalmer/Ling7800/spring17.html
 - **Viktor Kuncak:** https://lara.epfl.ch/w/
 - **John Pollock:** https://johnpollock.us/ftp/publications.html
+- **Herbert A. Simon** https://www.cs.cmu.edu/simon/bio.html , https://herbertsimonsociety.org/ , https://www.hetwebsite.net/het/profiles/simon.htm

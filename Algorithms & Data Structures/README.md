@@ -1,4 +1,10 @@
 ### Algorithms
+- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
+- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/
+- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/
+
+#### Resources
+- **Erik Demaine:** https://erikdemaine.org/classes/
 - http://planning.cs.uiuc.edu/web.html
 - https://algs4.cs.princeton.edu/home/
 - http://jeffe.cs.illinois.edu/teaching/algorithms/

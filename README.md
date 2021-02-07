@@ -1,6 +1,10 @@
 # Computer Science Related material
 - https://rosettacode.org/wiki/Rosetta_Code
 - https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start
+- https://en.wikipedia.org/wiki/Category:Data_structures
+- https://en.wikipedia.org/wiki/Category:Knowledge_representation
+- https://en.wikipedia.org/wiki/Category:Object-oriented_programming
+- https://en.wikipedia.org/wiki/Category:Abstraction
 
 ## People
 - **Avrim Blum:** http://www.cs.cmu.edu/~avrim/

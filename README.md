@@ -5,6 +5,7 @@
 - https://en.wikipedia.org/wiki/Category:Knowledge_representation
 - https://en.wikipedia.org/wiki/Category:Object-oriented_programming
 - https://en.wikipedia.org/wiki/Category:Abstraction
+- https://en.wikipedia.org/wiki/Category:Knowledge
 
 ## People
 - **Avrim Blum:** http://www.cs.cmu.edu/~avrim/

@@ -1,5 +1,7 @@
 # Computer Science Related material
 
+- **Scientific Modeling:** https://en.wikipedia.org/wiki/Category:Scientific_modeling
+
 ## concepts
 - **Ontology:** http://ontology.buffalo.edu/smith/
 - **Knowledge Representation:** https://en.wikipedia.org/wiki/Category:Knowledge_representation
@@ -9,6 +11,11 @@
 - **Abstraction:** https://en.wikipedia.org/wiki/Category:Abstraction
 - **Networks:** https://www.cs.cornell.edu/home/kleinber/networks-book/
 - **Data Structures:** https://en.wikipedia.org/wiki/Category:Data_structures
+- **Data:** https://en.wikipedia.org/wiki/Data_(computing)
+- **Databases:** https://en.wikipedia.org/wiki/Category:Databases
+- **Database Management Systems:** https://en.wikipedia.org/wiki/Category:Database_management_systems
+- **Data Warehouse:** https://en.wikipedia.org/wiki/Category:Data_warehousing
+
 
 ## People
 - **Avrim Blum:** http://www.cs.cmu.edu/~avrim/

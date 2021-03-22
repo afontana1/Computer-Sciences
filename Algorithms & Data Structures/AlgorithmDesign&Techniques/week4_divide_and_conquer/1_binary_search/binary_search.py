@@ -50,7 +50,7 @@ def linear_search(a, x):
 #         print(binary_iterative(a, x), end=" ")
 
 
-arr = [2,3,1]
+arr = [2, 3, 1]
 srt = sorted(arr)
 print(srt)
-print(binary_iterative(srt,15))
+print(binary_iterative(srt, 15))

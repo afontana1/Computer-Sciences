@@ -1,10 +1,10 @@
 # python3
 
-class Query:
 
+class Query:
     def __init__(self, query):
         self.type = query[0]
-        if self.type == 'check':
+        if self.type == "check":
             self.ind = int(query[1])
         else:
             self.s = query[1]
@@ -26,10 +26,10 @@ class QueryProcessor:
         return ans % self.bucket_count
 
     def write_search_result(self, was_found):
-        print('yes' if was_found else 'no')
+        print("yes" if was_found else "no")
 
     def write_chain(self, chain):
-        print(' '.join(chain))
+        print(" ".join(chain))
 
     def read_query(self):
         return Query(input().split())
@@ -37,16 +37,17 @@ class QueryProcessor:
     def process_query(self, query):
         if query.type == "check":
             # use reverse order, because we append strings to the end
-            self.write_chain(cur for cur in reversed(self.elems)
-                        if self._hash_func(cur) == query.ind)
+            self.write_chain(
+                cur for cur in reversed(self.elems) if self._hash_func(cur) == query.ind
+            )
         else:
             try:
                 ind = self.elems.index(query.s)
             except ValueError:
                 ind = -1
-            if query.type == 'find':
+            if query.type == "find":
                 self.write_search_result(ind != -1)
-            elif query.type == 'add':
+            elif query.type == "add":
                 if ind == -1:
                     self.elems.append(query.s)
             else:
@@ -58,7 +59,8 @@ class QueryProcessor:
         for i in range(n):
             self.process_query(self.read_query())
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     bucket_count = int(input())
     proc = QueryProcessor(bucket_count)
     proc.process_queries()

@@ -35,3 +35,4 @@
 - http://rl.cs.mcgill.ca/index.html
 - http://www.imperial.ac.uk/machine-learning/research/theory/reinforcement-online-learning/
 - http://pages.cs.wisc.edu/~dyer/cs540/
+- https://en.wikipedia.org/wiki/Collective_intelligence

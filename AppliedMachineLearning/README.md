@@ -1,5 +1,6 @@
 # AppliedMachineLearning
 
+- **Data Science Handbook:** https://jakevdp.github.io/PythonDataScienceHandbook/
 - Paste the github link here if you cannot open the .ipynb extension: https://nbviewer.jupyter.org/
 
 ## Additional related courses

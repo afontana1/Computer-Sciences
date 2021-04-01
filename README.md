@@ -22,18 +22,17 @@
 - **Database Management Systems:** https://en.wikipedia.org/wiki/Category:Database_management_systems
 - **Data Warehouse:** https://en.wikipedia.org/wiki/Category:Data_warehousing
 - **Tools:**
-```
-	|- https://www.amundsen.io/
-	|- https://datahub.io/
-	|- https://marquezproject.github.io/marquez/
-	|- https://atlas.apache.org/#/
-	|- http://www.ground-context.org/
-	|- https://databricks.com/discover/data-lakes/introduction
-	|- http://www.databaseanswers.org/data_lineage_tools.htm
-	|- https://www.dataversity.net/how-to-evaluate-a-data-governance-tool-with-20-indicators-plus-1/
-	|- https://www.avo.app/blog/16-data-governance-tools-to-improve-data-usability-and-security-in-2020
-	|- https://solutionsreview.com/data-management/the-best-open-source-data-lineage-tools-to-consider/
-```
+	* https://www.amundsen.io/
+	* https://datahub.io/
+	* https://marquezproject.github.io/marquez/
+	* https://atlas.apache.org/#/
+	* http://www.ground-context.org/
+	* https://databricks.com/discover/data-lakes/introduction
+	* http://www.databaseanswers.org/data_lineage_tools.htm
+	* https://www.dataversity.net/how-to-evaluate-a-data-governance-tool-with-20-indicators-plus-1/
+	* https://www.avo.app/blog/16-data-governance-tools-to-improve-data-usability-and-security-in-2020
+	* https://solutionsreview.com/data-management/the-best-open-source-data-lineage-tools-to-consider/
+
 ## People
 - **Avrim Blum:** http://www.cs.cmu.edu/~avrim/
 - **Kuat Yessenov:** http://people.csail.mit.edu/kuat/

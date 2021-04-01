@@ -1,5 +1,11 @@
 # Computational Science related material
 
+- **Organizations:**
+	* [Nico](https://www.nico.northwestern.edu/)
+	* [North Western](https://www.mccormick.northwestern.edu/applied-math/research/areas/complex-systems.html)
+	* [Colorado](https://www.colorado.edu/cs/research/complex-systems)
+	* (George Mason)[https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd]
+
 - **Numerical Analysis:** https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/
 - **Computational Thinking:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
 - **Design of Algorithms:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/
@@ -18,12 +24,20 @@
 - https://gitlab.math.ethz.ch/NumCSE/NumCSE
 
 ### networks / Complexity
+- **List of Classes:** 
+	* https://microexploitation.com/list/
+	* https://www.coursera.org/learn/systems-engineering
+	* https://www.complexityexplorer.org/courses
+	* http://csc.ucdavis.edu/Courses.html
+	* http://web.eecs.utk.edu/~bmaclenn/Classes/420-594-F04/index.html
+
 - https://www.complexityexplorer.org/
 - https://systemsinnovation.io/course/
 - http://www.network-science.org/
 - http://networksciencebook.com/
 - https://www.santafe.edu/
 - https://www.cs.cornell.edu/home/kleinber/
+- https://complexsystemstheory.net/complexity-explorer/
 
 ## Additional related courses
 - https://www.edx.org/xseries/mitx-18.03x-differential-equations

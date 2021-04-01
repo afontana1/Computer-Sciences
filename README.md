@@ -3,6 +3,7 @@
 - **Scientific Modeling:** https://en.wikipedia.org/wiki/Category:Scientific_modeling
 - **Organizations:**
 	* [amplab](https://amplab.cs.berkeley.edu/)
+	* [rise](https://rise.cs.berkeley.edu/)
 
 ## concepts
 - **Ontology:** http://ontology.buffalo.edu/smith/

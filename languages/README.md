@@ -7,117 +7,117 @@
 - **Standard Lib:** https://docs.python.org/3/library/
 - **Built-ins:** https://docs.python.org/3/library/functions.html
 
-```
 - **python examples:** 
-	|- https://www.programcreek.com/python/
-	|- https://www.sanfoundry.com/python-problems-solutions/
+	* https://www.programcreek.com/python/
+	* https://www.sanfoundry.com/python-problems-solutions/
 
-- **Data Types and Containers:** https://docs.python.org/3/library/datatypes.html
-	|- https://docs.python.org/3/library/enum.html
-	|- https://zetcode.com/python/enum/
-	|- https://docs.python.org/3/library/collections.html
-	|- https://book.pythontips.com/en/latest/collections.html
-	|- https://realpython.com/python-data-classes/
+- **Data Types and Containers:** 
+	* https://docs.python.org/3/library/datatypes.html
+	* https://docs.python.org/3/library/enum.html
+	* https://zetcode.com/python/enum/
+	* https://docs.python.org/3/library/collections.html
+	* https://book.pythontips.com/en/latest/collections.html
+	* https://realpython.com/python-data-classes/
 
 - **Type Checking and Linting:**
-	|- https://docs.python.org/3/library/types.html
-	|- https://docs.python.org/3/library/stdtypes.html
-	|- https://pydantic-docs.helpmanual.io/
-	|- https://realpython.com/python-type-checking/
-	|- https://realpython.com/python-code-quality/
-	|- https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html
-	|- https://www.bernat.tech/the-state-of-type-hints-in-python/
+	* https://docs.python.org/3/library/types.html
+	* https://docs.python.org/3/library/stdtypes.html
+	* https://pydantic-docs.helpmanual.io/
+	* https://realpython.com/python-type-checking/
+	* https://realpython.com/python-code-quality/
+	* https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html
+	* https://www.bernat.tech/the-state-of-type-hints-in-python/
 
 - **Videos:**
-	|- https://www.python.org/
-	|- https://pyvideo.org/
-	|- https://us.pycon.org/2020/online/
+	* https://www.python.org/
+	* https://pyvideo.org/
+	* https://us.pycon.org/2020/online/
 
 - **databases:** 
-	|- https://pymysql.readthedocs.io/en/latest/
-	|- https://datatofish.com/how-to-connect-python-to-sql-server-using-pyodbc/
-	|- https://realpython.com/pyspark-intro/
-	|- https://spark.apache.org/docs/0.9.2/python-programming-guide.html
-	|- https://www.sqlalchemy.org/
-	|- https://www.freecodecamp.org/news/connect-python-with-sql/
-	|- https://realpython.com/python-sql-libraries/
-	|- https://data-flair.training/blogs/nosql-database-in-python/
+	* https://pymysql.readthedocs.io/en/latest/
+	* https://datatofish.com/how-to-connect-python-to-sql-server-using-pyodbc/
+	* https://realpython.com/pyspark-intro/
+	* https://spark.apache.org/docs/0.9.2/python-programming-guide.html
+	* https://www.sqlalchemy.org/
+	* https://www.freecodecamp.org/news/connect-python-with-sql/
+	* https://realpython.com/python-sql-libraries/
+	* https://data-flair.training/blogs/nosql-database-in-python/
 
 - **packaging:** 
-	|- https://packaging.python.org/tutorials/packaging-projects/
-	|- https://towardsdatascience.com/how-to-build-your-first-python-package-6a00b02635c9
-	|- https://realpython.com/pypi-publish-python-package/
-	|- https://realpython.com/python-modules-packages/
-	|- https://realpython.com/python-application-layouts/
-	|- https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
-	|- https://www.bernat.tech/pep-517-and-python-packaging/
+	* https://packaging.python.org/tutorials/packaging-projects/
+	* https://towardsdatascience.com/how-to-build-your-first-python-package-6a00b02635c9
+	* https://realpython.com/pypi-publish-python-package/
+	* https://realpython.com/python-modules-packages/
+	* https://realpython.com/python-application-layouts/
+	* https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
+	* https://www.bernat.tech/pep-517-and-python-packaging/
 
 - **file handling:**
-	|- https://realpython.com/python-csv/
-	|- https://medium.com/dev-bits/ultimate-guide-for-working-with-i-o-streams-and-zip-archives-in-python-3-6f3cf96dca50
-	|- https://realpython.com/openpyxl-excel-spreadsheets-python/
-	|- https://stackoverflow.com/questions/324214/what-is-the-fastest-way-to-parse-large-xml-docs-in-python	
+	* https://realpython.com/python-csv/
+	* https://medium.com/dev-bits/ultimate-guide-for-working-with-i-o-streams-and-zip-archives-in-python-3-6f3cf96dca50
+	* https://realpython.com/openpyxl-excel-spreadsheets-python/
+	* https://stackoverflow.com/questions/324214/what-is-the-fastest-way-to-parse-large-xml-docs-in-python	
 
 - **Utilities:**
-	|- https://docs.python.org/3/library/email.examples.html
-	|- https://realpython.com/python-requests/
-	|- https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe/
-	|- https://realpython.com/regex-python/
-	|- https://realpython.com/command-line-interfaces-python-argparse/
-	|- https://docs.python.org/3/library/venv.html
-	|- https://realpython.com/python-mock-library/
-	|- https://www.softwaretestinghelp.com/python-testing-frameworks/
-	|- https://stackabuse.com/executing-shell-commands-with-python/
-	|- https://realpython.com/python-logging/
-	|- https://hackernoon.com/tools-for-writing-python-cli-applications-ba52db1e454f
-	|- https://pysftp.readthedocs.io/en/release_0.2.9/
+	* https://docs.python.org/3/library/email.examples.html
+	* https://realpython.com/python-requests/
+	* https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe/
+	* https://realpython.com/regex-python/
+	* https://realpython.com/command-line-interfaces-python-argparse/
+	* https://docs.python.org/3/library/venv.html
+	* https://realpython.com/python-mock-library/
+	* https://www.softwaretestinghelp.com/python-testing-frameworks/
+	* https://stackabuse.com/executing-shell-commands-with-python/
+	* https://realpython.com/python-logging/
+	* https://hackernoon.com/tools-for-writing-python-cli-applications-ba52db1e454f
+	* https://pysftp.readthedocs.io/en/release_0.2.9/
 
 - **Language Features:**
-	|- https://realpython.com/python-kwargs-and-args/
-	|- https://stackoverflow.com/questions/4075190/what-is-getattr-exactly-and-how-do-i-use-it
-	|- https://book.pythontips.com/en/latest/context_managers.html
-	|- https://medium.com/easyread/python-memoization-1fc37999c06d
-	|- https://realpython.com/primer-on-python-decorators/
-	|- https://stackoverflow.com/questions/62160411/pythons-new-functools-cached-property-bug-or-limitation
-	|- https://code-maven.com/function-or-callback-in-python
-	|- https://www.parallelpython.com/
-	|- https://docs.python.org/3/library/asyncio.html
-	|- https://stackabuse.com/pythons-os-and-subprocess-popen-commands/
-	|- https://pymotw.com/2/multiprocessing/basics.html
+	* https://realpython.com/python-kwargs-and-args/
+	* https://stackoverflow.com/questions/4075190/what-is-getattr-exactly-and-how-do-i-use-it
+	* https://book.pythontips.com/en/latest/context_managers.html
+	* https://medium.com/easyread/python-memoization-1fc37999c06d
+	* https://realpython.com/primer-on-python-decorators/
+	* https://stackoverflow.com/questions/62160411/pythons-new-functools-cached-property-bug-or-limitation
+	* https://code-maven.com/function-or-callback-in-python
+	* https://www.parallelpython.com/
+	* https://docs.python.org/3/library/asyncio.html
+	* https://stackabuse.com/pythons-os-and-subprocess-popen-commands/
+	* https://pymotw.com/2/multiprocessing/basics.html
 
 - **Web Frameworks and API tools:**
-	|- https://www.velotio.com/engineering-blog/python-tornado-guide
-	|- https://fastapi.tiangolo.com/
-	|- https://gunicorn.org/
-	|- https://wsgi.readthedocs.io/en/latest/index.html
-	|- https://www.toptal.com/bottle/building-a-rest-api-with-bottle-framework
-	|- https://bottlepy.org/docs/dev/
-	|- https://www.fullstackpython.com/bottle.html
-	|- https://dash.plotly.com/introduction
+	* https://www.velotio.com/engineering-blog/python-tornado-guide
+	* https://fastapi.tiangolo.com/
+	* https://gunicorn.org/
+	* https://wsgi.readthedocs.io/en/latest/index.html
+	* https://www.toptal.com/bottle/building-a-rest-api-with-bottle-framework
+	* https://bottlepy.org/docs/dev/
+	* https://www.fullstackpython.com/bottle.html
+	* https://dash.plotly.com/introduction
 
 - **CI and Pipeline Building:**
-	|- https://tox.readthedocs.io/en/latest/
-	|- https://www.jenkins.io/
-	|- https://realpython.com/python-boto3-aws-s3/
-	|- https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-examples.html
-	|- https://aws.amazon.com/athena/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc
-	|- https://www.mturk.com/
-	|- https://dataflow.spring.io/
-	|- https://airflow.apache.org/
-	|- https://nifi.apache.org/
-	|- https://github.com/spotify/luigi
-	|- https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7
-	|- https://streamsets.com/documentation/datacollector/latest/help/datacollector/UserGuide/Microservice/Microservice_Title.html#concept_gzw_tdm_p2b
-	|- https://www.confluent.io/blog/build-observability-pipelines-with-confluent-cloud-and-appdynamics/
-	|- https://thenewstack.io/databand-observability-for-data-pipelines/
-	|- https://www.unraveldata.com/monitor-optimize-big-data-pipelines-and-workflows/
-	|- https://www.datadoghq.com/blog/engineering/highly-reliable-data-pipelines/
-	|- https://cloud.google.com/blog/products/management-tools/the-right-metrics-to-monitor-cloud-data-pipelines
-	|- https://engineering.linkedin.com/blog/2019/an-inside-look-at-linkedins-data-pipeline-monitoring-system-
-	|- https://medium.com/analytics-and-data/real-time-data-pipelines-complexities-considerations-eecad520b70b
-	|- https://www.kdnuggets.com/2020/02/observability-data-engineering.html
-	|- https://www.infoq.com/presentations/monitoring-data-pipelines/
-```
+	* https://tox.readthedocs.io/en/latest/
+	* https://www.jenkins.io/
+	* https://realpython.com/python-boto3-aws-s3/
+	* https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-examples.html
+	* https://aws.amazon.com/athena/?whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc
+	* https://www.mturk.com/
+	* https://dataflow.spring.io/
+	* https://airflow.apache.org/
+	* https://nifi.apache.org/
+	* https://github.com/spotify/luigi
+	* https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7
+	* https://streamsets.com/documentation/datacollector/latest/help/datacollector/UserGuide/Microservice/Microservice_Title.html#concept_gzw_tdm_p2b
+	* https://www.confluent.io/blog/build-observability-pipelines-with-confluent-cloud-and-appdynamics/
+	* https://thenewstack.io/databand-observability-for-data-pipelines/
+	* https://www.unraveldata.com/monitor-optimize-big-data-pipelines-and-workflows/
+	* https://www.datadoghq.com/blog/engineering/highly-reliable-data-pipelines/
+	* https://cloud.google.com/blog/products/management-tools/the-right-metrics-to-monitor-cloud-data-pipelines
+	* https://engineering.linkedin.com/blog/2019/an-inside-look-at-linkedins-data-pipeline-monitoring-system-
+	* https://medium.com/analytics-and-data/real-time-data-pipelines-complexities-considerations-eecad520b70b
+	* https://www.kdnuggets.com/2020/02/observability-data-engineering.html
+	* https://www.infoq.com/presentations/monitoring-data-pipelines/
+
 ## SQL
 - https://www.sqlservertutorial.net/
 - https://www.w3schools.com/sql/sql_having.asp

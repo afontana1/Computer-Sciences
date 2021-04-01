@@ -7,6 +7,7 @@
 - **Standard Lib:** https://docs.python.org/3/library/
 - **Built-ins:** https://docs.python.org/3/library/functions.html
 
+```
 - **python examples:** 
 	|- https://www.programcreek.com/python/
 	|- https://www.sanfoundry.com/python-problems-solutions/
@@ -116,7 +117,7 @@
 	|- https://medium.com/analytics-and-data/real-time-data-pipelines-complexities-considerations-eecad520b70b
 	|- https://www.kdnuggets.com/2020/02/observability-data-engineering.html
 	|- https://www.infoq.com/presentations/monitoring-data-pipelines/
-
+```
 ## SQL
 - https://www.sqlservertutorial.net/
 - https://www.w3schools.com/sql/sql_having.asp

@@ -22,6 +22,7 @@
 - **Database Management Systems:** https://en.wikipedia.org/wiki/Category:Database_management_systems
 - **Data Warehouse:** https://en.wikipedia.org/wiki/Category:Data_warehousing
 - **Tools:**
+```
 	|- https://www.amundsen.io/
 	|- https://datahub.io/
 	|- https://marquezproject.github.io/marquez/
@@ -32,15 +33,17 @@
 	|- https://www.dataversity.net/how-to-evaluate-a-data-governance-tool-with-20-indicators-plus-1/
 	|- https://www.avo.app/blog/16-data-governance-tools-to-improve-data-usability-and-security-in-2020
 	|- https://solutionsreview.com/data-management/the-best-open-source-data-lineage-tools-to-consider/
-
+```
 ## People
 - **Avrim Blum:** http://www.cs.cmu.edu/~avrim/
 - **Kuat Yessenov:** http://people.csail.mit.edu/kuat/
 - **Sangeet Khemlani:** https://khemlani.net/
 - **David Schum:** https://www.researchgate.net/scientific-contributions/2108621468_David_A_Schum
 - **Judea Pearl:**
+```
 	|- https://amturing.acm.org/award_winners/pearl_2658896.cfm 
 	|- http://bayes.cs.ucla.edu/home.htm
+```
 - **Charu Aggarwal:** http://www.charuaggarwal.net/
 - **Tim Roughgarden:** http://timroughgarden.org/
 - **David Epstein:** https://www.ics.uci.edu/~eppstein/teach.html
@@ -62,7 +65,9 @@
 - **Martha Palmer:** http://verbs.colorado.edu/~mpalmer/Ling7800/spring17.html
 - **Viktor Kuncak:** https://lara.epfl.ch/w/
 - **John Pollock:** https://johnpollock.us/ftp/publications.html
-- **Herbert A. Simon** 
+- **Herbert A. Simon**
+```
 	|- https://www.cs.cmu.edu/simon/bio.html
 	|- https://herbertsimonsociety.org/
 	|- https://www.hetwebsite.net/het/profiles/simon.htm
+```

@@ -1,5 +1,6 @@
 # Resources
 
+- **Reliability Engineering:** https://sre.google/
 - **12 Factor App:** https://12factor.net/
 - **Martin Fowler:** https://martinfowler.com/microservices/
 
@@ -113,6 +114,7 @@
 	* https://www.unraveldata.com/monitor-optimize-big-data-pipelines-and-workflows/
 	* https://www.datadoghq.com/blog/engineering/highly-reliable-data-pipelines/
 	* https://cloud.google.com/blog/products/management-tools/the-right-metrics-to-monitor-cloud-data-pipelines
+	* https://sre.google/workbook/data-processing/
 	* https://engineering.linkedin.com/blog/2019/an-inside-look-at-linkedins-data-pipeline-monitoring-system-
 	* https://medium.com/analytics-and-data/real-time-data-pipelines-complexities-considerations-eecad520b70b
 	* https://www.kdnuggets.com/2020/02/observability-data-engineering.html

@@ -2,7 +2,7 @@
 
 - **Scientific Modeling:** https://en.wikipedia.org/wiki/Category:Scientific_modeling
 - **Organizations:**
-	|- https://amplab.cs.berkeley.edu/
+	* [amplab](https://amplab.cs.berkeley.edu/)
 
 ## concepts
 - **Ontology:** http://ontology.buffalo.edu/smith/
@@ -39,11 +39,7 @@
 - **Kuat Yessenov:** http://people.csail.mit.edu/kuat/
 - **Sangeet Khemlani:** https://khemlani.net/
 - **David Schum:** https://www.researchgate.net/scientific-contributions/2108621468_David_A_Schum
-- **Judea Pearl:**
-```
-	|- https://amturing.acm.org/award_winners/pearl_2658896.cfm 
-	|- http://bayes.cs.ucla.edu/home.htm
-```
+- **Judea Pearl:** http://bayes.cs.ucla.edu/home.htm
 - **Charu Aggarwal:** http://www.charuaggarwal.net/
 - **Tim Roughgarden:** http://timroughgarden.org/
 - **David Epstein:** https://www.ics.uci.edu/~eppstein/teach.html
@@ -66,8 +62,6 @@
 - **Viktor Kuncak:** https://lara.epfl.ch/w/
 - **John Pollock:** https://johnpollock.us/ftp/publications.html
 - **Herbert A. Simon**
-```
-	|- https://www.cs.cmu.edu/simon/bio.html
-	|- https://herbertsimonsociety.org/
-	|- https://www.hetwebsite.net/het/profiles/simon.htm
-```
+	* [Bio](https://www.cs.cmu.edu/simon/bio.html)
+	* [Society](https://herbertsimonsociety.org/)
+	* [Website](https://www.hetwebsite.net/het/profiles/simon.htm)

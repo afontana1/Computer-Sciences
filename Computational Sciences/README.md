@@ -4,7 +4,7 @@
 	* [Nico](https://www.nico.northwestern.edu/)
 	* [North Western](https://www.mccormick.northwestern.edu/applied-math/research/areas/complex-systems.html)
 	* [Colorado](https://www.colorado.edu/cs/research/complex-systems)
-	* (George Mason)[https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd]
+	* [George Mason](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd)
 
 - **Numerical Analysis:** https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/
 - **Computational Thinking:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/

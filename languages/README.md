@@ -8,6 +8,12 @@
 - **Standard Lib:** https://docs.python.org/3/library/
 - **Built-ins:** https://docs.python.org/3/library/functions.html
 
+- **Graphing:** 
+	* https://www.python-graph-gallery.com/
+	* https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
+	* https://towardsdatascience.com/social-network-analysis-from-theory-to-applications-with-python-d12e9a34c2c7
+	* https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python
+
 - **python examples:** 
 	* https://www.programcreek.com/python/
 	* https://www.sanfoundry.com/python-problems-solutions/
@@ -72,6 +78,10 @@
 	* https://realpython.com/python-logging/
 	* https://hackernoon.com/tools-for-writing-python-cli-applications-ba52db1e454f
 	* https://pysftp.readthedocs.io/en/release_0.2.9/
+	* https://pymotw.com/2/multiprocessing/
+	* https://realpython.com/intro-to-python-threading/
+	* https://realpython.com/python-concurrency/
+	* https://realpython.com/learning-paths/python-concurrency-parallel-programming/
 
 - **Language Features:**
 	* https://realpython.com/python-kwargs-and-args/
@@ -85,6 +95,7 @@
 	* https://docs.python.org/3/library/asyncio.html
 	* https://stackabuse.com/pythons-os-and-subprocess-popen-commands/
 	* https://pymotw.com/2/multiprocessing/basics.html
+	* https://docs.python.org/3/library/multiprocessing.html
 
 - **Web Frameworks and API tools:**
 	* https://www.velotio.com/engineering-blog/python-tornado-guide
@@ -138,3 +149,4 @@
 - https://developer.mozilla.org/en-US/
 - https://docs.bokeh.org/en/latest/docs/user_guide/interaction/callbacks.html
 - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+- https://www.d3-graph-gallery.com/network

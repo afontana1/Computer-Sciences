@@ -1,5 +1,8 @@
 # Computer Science Related material
 
+- **Programming Practice:**
+	* [Algo-Expert](https://www.algoexpert.io/product)
+	* [educative.io](https://www.educative.io/explore)
 - **Scientific Modeling:** https://en.wikipedia.org/wiki/Category:Scientific_modeling
 - **Organizations:**
 	* [amplab](https://amplab.cs.berkeley.edu/)
@@ -34,6 +37,15 @@
 	* https://www.dataversity.net/how-to-evaluate-a-data-governance-tool-with-20-indicators-plus-1/
 	* https://www.avo.app/blog/16-data-governance-tools-to-improve-data-usability-and-security-in-2020
 	* https://solutionsreview.com/data-management/the-best-open-source-data-lineage-tools-to-consider/
+	* http://www.visualdataweb.org/
+	* http://vowl.visualdataweb.org/webvowl.html
+
+- https://graphconnect2017.sched.com/
+- https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
+- https://rise.cs.berkeley.edu/wp-content/uploads/2017/03/CIDR17.pdf
+- https://docs.oracle.com/en/database/oracle/oracle-database/19/admqs/index.html
+- https://www.semanticscholar.org/paper/Development-and-evaluation-of-a-holistic-framework-Al-Ruithe/db2b33500d1b57ac32131945e433d463d80c3918
+- https://line.17qq.com/articles/gpdlcdmdv.html
 
 ## People
 - **Avrim Blum:** http://www.cs.cmu.edu/~avrim/

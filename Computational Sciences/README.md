@@ -1,10 +1,16 @@
 # Computational Science related material
 
+- **Scientific Modeling:** https://en.wikipedia.org/wiki/Category:Scientific_modeling
+
 - **Organizations:**
 	* [Nico](https://www.nico.northwestern.edu/)
 	* [North Western](https://www.mccormick.northwestern.edu/applied-math/research/areas/complex-systems.html)
 	* [Colorado](https://www.colorado.edu/cs/research/complex-systems)
 	* [George Mason](https://science.gmu.edu/academics/departments-units/computational-data-sciences/computational-social-science-phd)
+	* [International Institute for Applied Systems Analysis](https://iiasa.ac.at/)
+	* [Study CAS](http://studycas.com/)
+	* [Swarm Lab](https://www.theswarmlab.com/)
+	* [Multi Agent Systems Lab](http://www.cs.cmu.edu/~softagents/)
 
 - **Numerical Analysis:** https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/
 - **Computational Thinking:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
@@ -24,13 +30,7 @@
 - https://gitlab.math.ethz.ch/NumCSE/NumCSE
 
 ### networks / Complexity
-- **List of Classes:** 
-	* https://microexploitation.com/list/
-	* https://www.coursera.org/learn/systems-engineering
-	* https://www.complexityexplorer.org/courses
-	* http://csc.ucdavis.edu/Courses.html
-	* http://web.eecs.utk.edu/~bmaclenn/Classes/420-594-F04/index.html
-
+- https://www.cs.cornell.edu/home/kleinber/networks-book/
 - https://www.complexityexplorer.org/
 - https://systemsinnovation.io/course/
 - http://www.network-science.org/
@@ -38,6 +38,14 @@
 - https://www.santafe.edu/
 - https://www.cs.cornell.edu/home/kleinber/
 - https://complexsystemstheory.net/complexity-explorer/
+- https://www.santafe.edu/events/liquid-brains-solid-brains
+
+- **List of Classes:** 
+	* https://microexploitation.com/list/
+	* https://www.coursera.org/learn/systems-engineering
+	* https://www.complexityexplorer.org/courses
+	* http://csc.ucdavis.edu/Courses.html
+	* http://web.eecs.utk.edu/~bmaclenn/Classes/420-594-F04/index.html
 
 ## Additional related courses
 - https://www.edx.org/xseries/mitx-18.03x-differential-equations
@@ -56,3 +64,5 @@
 - https://en.wikipedia.org/wiki/Category:Systems_science
 - https://en.wikipedia.org/wiki/Category:Complex_systems_theory
 - https://en.wikipedia.org/wiki/Category:Systems_theory
+- https://en.wikipedia.org/wiki/Category:Multi-agent_systems
+- https://en.wikipedia.org/wiki/Category:Systems_architecture

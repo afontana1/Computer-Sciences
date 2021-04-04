@@ -3,49 +3,19 @@
 - **Programming Practice:**
 	* [Algo-Expert](https://www.algoexpert.io/product)
 	* [educative.io](https://www.educative.io/explore)
-- **Scientific Modeling:** https://en.wikipedia.org/wiki/Category:Scientific_modeling
+	* [CodeForces](http://codeforces.com/)
 - **Organizations:**
 	* [amplab](https://amplab.cs.berkeley.edu/)
 	* [rise](https://rise.cs.berkeley.edu/)
+	* [CRRAR](https://www.uwindsor.ca/crrar/)
 
 ## concepts
-- **Ontology:** http://ontology.buffalo.edu/smith/
-- **Knowledge Representation:** https://en.wikipedia.org/wiki/Category:Knowledge_representation
-- **Knowledge:** https://en.wikipedia.org/wiki/Category:Knowledge
+
 - **Software Design:** https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start
 - **Subroutines:** https://en.wikipedia.org/wiki/Category:Subroutines
 - **Objects:** https://en.wikipedia.org/wiki/Category:Object-oriented_programming
 - **Abstraction:** https://en.wikipedia.org/wiki/Category:Abstraction
-- **Networks:** https://www.cs.cornell.edu/home/kleinber/networks-book/
 - **Data Structures:** https://en.wikipedia.org/wiki/Category:Data_structures
-
-
-## Data Management
-- **Dataversity:** https://www.dataversity.net/
-- **Governance:** https://university.collibra.com/learn
-- **Data:** https://en.wikipedia.org/wiki/Data_(computing)
-- **Databases:** https://en.wikipedia.org/wiki/Category:Databases
-- **Database Management Systems:** https://en.wikipedia.org/wiki/Category:Database_management_systems
-- **Data Warehouse:** https://en.wikipedia.org/wiki/Category:Data_warehousing
-- **Tools:**
-	* https://www.amundsen.io/
-	* https://datahub.io/
-	* https://marquezproject.github.io/marquez/
-	* https://atlas.apache.org/#/
-	* http://www.ground-context.org/
-	* https://databricks.com/discover/data-lakes/introduction
-	* http://www.databaseanswers.org/data_lineage_tools.htm
-	* https://www.dataversity.net/how-to-evaluate-a-data-governance-tool-with-20-indicators-plus-1/
-	* https://www.avo.app/blog/16-data-governance-tools-to-improve-data-usability-and-security-in-2020
-	* https://solutionsreview.com/data-management/the-best-open-source-data-lineage-tools-to-consider/
-	* http://www.visualdataweb.org/
-	* http://vowl.visualdataweb.org/webvowl.html
-
-- https://graphconnect2017.sched.com/
-- https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
-- https://rise.cs.berkeley.edu/wp-content/uploads/2017/03/CIDR17.pdf
-- https://www.semanticscholar.org/paper/Development-and-evaluation-of-a-holistic-framework-Al-Ruithe/db2b33500d1b57ac32131945e433d463d80c3918
-- https://line.17qq.com/articles/gpdlcdmdv.html
 
 ## People
 - **Avrim Blum:** http://www.cs.cmu.edu/~avrim/
@@ -74,6 +44,7 @@
 - **Martha Palmer:** http://verbs.colorado.edu/~mpalmer/Ling7800/spring17.html
 - **Viktor Kuncak:** https://lara.epfl.ch/w/
 - **John Pollock:** https://johnpollock.us/ftp/publications.html
+- **Simon Garnier:** https://people.njit.edu/faculty/garnier
 - **Herbert A. Simon**
 	* [Bio](https://www.cs.cmu.edu/simon/bio.html)
 	* [Society](https://herbertsimonsociety.org/)

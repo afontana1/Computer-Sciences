@@ -63,7 +63,8 @@
 	* https://realpython.com/python-csv/
 	* https://medium.com/dev-bits/ultimate-guide-for-working-with-i-o-streams-and-zip-archives-in-python-3-6f3cf96dca50
 	* https://realpython.com/openpyxl-excel-spreadsheets-python/
-	* https://stackoverflow.com/questions/324214/what-is-the-fastest-way-to-parse-large-xml-docs-in-python	
+	* https://stackoverflow.com/questions/324214/what-is-the-fastest-way-to-parse-large-xml-docs-in-python
+	* https://pythonspeed.com/memory/
 
 - **Utilities:**
 	* https://docs.python.org/3/library/email.examples.html
@@ -82,6 +83,7 @@
 	* https://realpython.com/intro-to-python-threading/
 	* https://realpython.com/python-concurrency/
 	* https://realpython.com/learning-paths/python-concurrency-parallel-programming/
+	* https://pythonspeed.com/articles/python-multiprocessing/
 
 - **Language Features:**
 	* https://realpython.com/python-kwargs-and-args/
@@ -109,6 +111,7 @@
 
 - **CI and Pipeline Building:**
 	* https://tox.readthedocs.io/en/latest/
+	* https://pythonspeed.com/docker/
 	* https://www.jenkins.io/
 	* https://realpython.com/python-boto3-aws-s3/
 	* https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-examples.html
@@ -135,6 +138,7 @@
 - https://www.sqlservertutorial.net/
 - https://www.w3schools.com/sql/sql_having.asp
 - https://sqlbolt.com/lesson/select_queries_order_of_execution
+- https://docs.oracle.com/en/database/oracle/oracle-database/19/admqs/index.html
 
 ## Shell Scripting
 - https://linuxcommand.org/lc3_writing_shell_scripts.php

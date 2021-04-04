@@ -43,7 +43,6 @@
 - https://graphconnect2017.sched.com/
 - https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
 - https://rise.cs.berkeley.edu/wp-content/uploads/2017/03/CIDR17.pdf
-- https://docs.oracle.com/en/database/oracle/oracle-database/19/admqs/index.html
 - https://www.semanticscholar.org/paper/Development-and-evaluation-of-a-holistic-framework-Al-Ruithe/db2b33500d1b57ac32131945e433d463d80c3918
 - https://line.17qq.com/articles/gpdlcdmdv.html
 

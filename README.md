@@ -22,6 +22,7 @@
 
 ## Data Management
 - **Dataversity:** https://www.dataversity.net/
+- **Governance:** https://university.collibra.com/learn
 - **Data:** https://en.wikipedia.org/wiki/Data_(computing)
 - **Databases:** https://en.wikipedia.org/wiki/Category:Databases
 - **Database Management Systems:** https://en.wikipedia.org/wiki/Category:Database_management_systems

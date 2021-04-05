@@ -8,11 +8,13 @@
 - **Standard Lib:** https://docs.python.org/3/library/
 - **Built-ins:** https://docs.python.org/3/library/functions.html
 
-- **Graphing:** 
+- **Graphing & Viz:** 
 	* https://www.python-graph-gallery.com/
 	* https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
 	* https://towardsdatascience.com/social-network-analysis-from-theory-to-applications-with-python-d12e9a34c2c7
 	* https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python
+	* https://pypi.org/project/apache-superset/
+	* https://apache-superset.readthedocs.io/en/latest/installation.html
 
 - **python examples:** 
 	* https://www.programcreek.com/python/
@@ -98,6 +100,7 @@
 	* https://stackabuse.com/pythons-os-and-subprocess-popen-commands/
 	* https://pymotw.com/2/multiprocessing/basics.html
 	* https://docs.python.org/3/library/multiprocessing.html
+	* https://pythontic.com/containers/set/issuperset
 
 - **Web Frameworks and API tools:**
 	* https://www.velotio.com/engineering-blog/python-tornado-guide

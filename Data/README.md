@@ -15,12 +15,21 @@
 - **Databases:** https://en.wikipedia.org/wiki/Category:Databases
 - **Database Management Systems:** https://en.wikipedia.org/wiki/Category:Database_management_systems
 - **Data Warehouse:** https://en.wikipedia.org/wiki/Category:Data_warehousing
+- **Data Ops:**
+	* https://medium.com/data-ops
+	* https://www.dataopsmanifesto.org/
+	* https://datakitchen.io/what-is-dataops/
+	* https://www.ibm.com/analytics/dataops
+	* https://www.ibm.com/blogs/journey-to-ai/2019/12/what-is-dataops/
+
 - **Governance:**
 	* [Dataversity](https://www.dataversity.net/)
 	* [Stanford](http://web.stanford.edu/dept/pres-provost/cgi-bin/dg/wordpress/)
 	* [Collibra](https://university.collibra.com/learn)
 	* [Data Governance Hub](https://datagovhub.elliott.gwu.edu/)
 	* [In academics](https://dmptool.org/general_guidance)
+	* [Resource Compendium](https://github.com/SuperNerb/Data-Governance-Compilation)
+	* [More Resources](https://github.com/odpi/data-governance)
 
 - **Tools:** [Evaluation](https://www.dataversity.net/how-to-evaluate-a-data-governance-tool-with-20-indicators-plus-1/)
 	* [amundsen](https://www.amundsen.io/)

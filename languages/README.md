@@ -17,6 +17,7 @@
 	* https://apache-superset.readthedocs.io/en/latest/installation.html
 
 - **python examples:** 
+	* https://pymotw.com/3/
 	* https://www.programcreek.com/python/
 	* https://www.sanfoundry.com/python-problems-solutions/
 
@@ -136,6 +137,11 @@
 	* https://medium.com/analytics-and-data/real-time-data-pipelines-complexities-considerations-eecad520b70b
 	* https://www.kdnuggets.com/2020/02/observability-data-engineering.html
 	* https://www.infoq.com/presentations/monitoring-data-pipelines/
+
+- **API:**
+	* https://medium.com/apitest/how-do-you-ensure-api-quality-e1f46a1bd49e
+	* https://medium.com/open-insurance/sample-api-use-cases-for-insurance-2e615af54775
+	* https://medium.com/@robert.broeckelmann/api-governance-in-the-enterprise-e6651a3b75db
 
 ## SQL
 - https://www.sqlservertutorial.net/

@@ -1,4 +1,5 @@
 # Data
+- **Diagram Paradigms:** https://circle.visual-paradigm.com/diagram-examples/
 - https://en.wikipedia.org/wiki/Category:Business_process
 - https://en.wikipedia.org/wiki/Category:Evaluation_methods
 
@@ -30,6 +31,7 @@
 	* [In academics](https://dmptool.org/general_guidance)
 	* [Resource Compendium](https://github.com/SuperNerb/Data-Governance-Compilation)
 	* [More Resources](https://github.com/odpi/data-governance)
+	* [MDM](https://www.ibm.com/docs/en/imdm/11.6)
 
 - **Tools:** [Evaluation](https://www.dataversity.net/how-to-evaluate-a-data-governance-tool-with-20-indicators-plus-1/)
 	* [amundsen](https://www.amundsen.io/)

@@ -9,7 +9,15 @@
 - **Built-ins:** https://docs.python.org/3/library/functions.html
 
 - **Graphing & Viz:** 
+	* https://project-awesome.org/markusschanta/awesome-jupyter
+	* http://pythonic.zoomquiet.top/data/20171227234039/index.html
+	* https://executablebooks.org/en/latest/gallery.html
+	* https://panel.holoviz.org/
+	* https://voila-gallery.org/
+	* https://plotly.com/python/
 	* https://www.python-graph-gallery.com/
+	* https://jupyterbook.org/interactive/interactive.html
+	* https://www.infoq.com/presentations/data-visualization-jupyter-notebooks/
 	* https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
 	* https://towardsdatascience.com/social-network-analysis-from-theory-to-applications-with-python-d12e9a34c2c7
 	* https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python
@@ -163,3 +171,6 @@
 - https://docs.bokeh.org/en/latest/docs/user_guide/interaction/callbacks.html
 - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
 - https://www.d3-graph-gallery.com/network
+
+## Java
+- https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/

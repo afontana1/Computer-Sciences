@@ -32,6 +32,7 @@
 	* [Resource Compendium](https://github.com/SuperNerb/Data-Governance-Compilation)
 	* [More Resources](https://github.com/odpi/data-governance)
 	* [MDM](https://www.ibm.com/docs/en/imdm/11.6)
+	* [Sparql](https://jena.apache.org/tutorials/sparql.html)
 
 - **Tools:** [Evaluation](https://www.dataversity.net/how-to-evaluate-a-data-governance-tool-with-20-indicators-plus-1/)
 	* [amundsen](https://www.amundsen.io/)
@@ -51,3 +52,5 @@
 	* https://blog.google/products/search/introducing-knowledge-graph-things-not/
 	* https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/
 	* https://developers.google.com/knowledge-graph
+	* https://programminghistorian.org/en/lessons/retired/graph-databases-and-SPARQL
+	* https://www.w3.org/TR/sparql11-query/

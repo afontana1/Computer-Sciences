@@ -4,6 +4,8 @@
 - [Brains Minds and Machines](https://cbmm.mit.edu/)
 - [Deep Learning Book](https://d2l.ai/index.html)
 - [Meena AI](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
+- [R Books](https://bookdown.org/)
+- [R for Data Science](https://r4ds.had.co.nz/index.html)
 
 ## Additional related courses
 - https://www.coursera.org/specializations/aml

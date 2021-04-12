@@ -9,6 +9,7 @@
 - **Built-ins:** https://docs.python.org/3/library/functions.html
 
 - **Graphing & Viz:** 
+	* https://elc.github.io/posts/embed-interactive-notebooks/
 	* https://project-awesome.org/markusschanta/awesome-jupyter
 	* http://pythonic.zoomquiet.top/data/20171227234039/index.html
 	* https://executablebooks.org/en/latest/gallery.html
@@ -60,6 +61,10 @@
 	* https://www.freecodecamp.org/news/connect-python-with-sql/
 	* https://realpython.com/python-sql-libraries/
 	* https://data-flair.training/blogs/nosql-database-in-python/
+	* https://realpython.com/tutorials/databases/
+	* https://realpython.com/python-mysql/
+	* https://www.fullstackpython.com/databases.html
+	* https://www.freecodecamp.org/news/connect-python-with-sql/
 
 - **packaging:** 
 	* https://packaging.python.org/tutorials/packaging-projects/
@@ -95,6 +100,7 @@
 	* https://realpython.com/python-concurrency/
 	* https://realpython.com/learning-paths/python-concurrency-parallel-programming/
 	* https://pythonspeed.com/articles/python-multiprocessing/
+	* https://realpython.com/beautiful-soup-web-scraper-python/
 
 - **Language Features:**
 	* https://realpython.com/python-kwargs-and-args/

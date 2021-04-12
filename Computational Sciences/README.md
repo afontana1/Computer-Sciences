@@ -1,6 +1,10 @@
 # Computational Science related material
 
 - **Scientific Modeling:** https://en.wikipedia.org/wiki/Category:Scientific_modeling
+- **Diagramming:** 
+	* https://en.wikipedia.org/wiki/Diagram
+	* https://commons.wikimedia.org/wiki/General_diagram_types
+	* https://www.smartdraw.com/diagrams/
 
 - **Organizations:**
 	* [Nico](https://www.nico.northwestern.edu/)
@@ -66,3 +70,4 @@
 - https://en.wikipedia.org/wiki/Category:Systems_theory
 - https://en.wikipedia.org/wiki/Category:Multi-agent_systems
 - https://en.wikipedia.org/wiki/Category:Systems_architecture
+- https://en.wikipedia.org/wiki/Information_filtering_system

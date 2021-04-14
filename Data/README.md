@@ -2,6 +2,8 @@
 - **Diagram Paradigms:** https://circle.visual-paradigm.com/diagram-examples/
 - https://en.wikipedia.org/wiki/Category:Business_process
 - https://en.wikipedia.org/wiki/Category:Evaluation_methods
+- https://commons.wikimedia.org/wiki/General_diagram_types
+- https://en.wikipedia.org/wiki/Diagram
 
 ## Concepts
 - [Automated reasoning](https://en.wikipedia.org/wiki/Automated_reasoning)

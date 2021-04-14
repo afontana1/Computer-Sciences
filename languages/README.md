@@ -16,6 +16,7 @@
 	* https://panel.holoviz.org/
 	* https://voila-gallery.org/
 	* https://plotly.com/python/
+	* https://bokeh.org/
 	* https://www.python-graph-gallery.com/
 	* https://jupyterbook.org/interactive/interactive.html
 	* https://www.infoq.com/presentations/data-visualization-jupyter-notebooks/

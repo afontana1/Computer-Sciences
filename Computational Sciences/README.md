@@ -70,4 +70,8 @@
 - https://en.wikipedia.org/wiki/Category:Systems_theory
 - https://en.wikipedia.org/wiki/Category:Multi-agent_systems
 - https://en.wikipedia.org/wiki/Category:Systems_architecture
+- https://en.wikipedia.org/wiki/Category:Network_theory
+- https://en.wikipedia.org/wiki/Category:Networks
+- https://en.wikipedia.org/wiki/Category:Graph_theory
+- https://en.wikipedia.org/wiki/Category:Cybernetics
 - https://en.wikipedia.org/wiki/Information_filtering_system

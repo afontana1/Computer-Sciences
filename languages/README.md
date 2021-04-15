@@ -9,6 +9,7 @@
 - **Built-ins:** https://docs.python.org/3/library/functions.html
 
 - **Graphing & Viz:** 
+	* https://automating-gis-processes.github.io/CSC18/index.html
 	* https://elc.github.io/posts/embed-interactive-notebooks/
 	* https://project-awesome.org/markusschanta/awesome-jupyter
 	* http://pythonic.zoomquiet.top/data/20171227234039/index.html
@@ -20,8 +21,6 @@
 	* https://www.python-graph-gallery.com/
 	* https://jupyterbook.org/interactive/interactive.html
 	* https://www.infoq.com/presentations/data-visualization-jupyter-notebooks/
-	* https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
-	* https://towardsdatascience.com/social-network-analysis-from-theory-to-applications-with-python-d12e9a34c2c7
 	* https://programminghistorian.org/en/lessons/exploring-and-analyzing-network-data-with-python
 	* https://pypi.org/project/apache-superset/
 	* https://apache-superset.readthedocs.io/en/latest/installation.html
@@ -82,6 +81,7 @@
 	* https://realpython.com/openpyxl-excel-spreadsheets-python/
 	* https://stackoverflow.com/questions/324214/what-is-the-fastest-way-to-parse-large-xml-docs-in-python
 	* https://pythonspeed.com/memory/
+	* https://dask.org/
 
 - **Utilities:**
 	* https://docs.python.org/3/library/email.examples.html

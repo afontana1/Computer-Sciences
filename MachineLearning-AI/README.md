@@ -27,6 +27,8 @@
 - http://www.stat.cmu.edu/~cshalizi/350/
 
 **Graph models**
+- http://web.stanford.edu/class/cs224w/
+- https://snap-stanford.github.io/cs224w-notes/
 - https://cs.stanford.edu/~ermon/cs228/index.html
 - https://cs.stanford.edu/~ermon/cs323/index.html
 - http://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html

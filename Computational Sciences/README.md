@@ -15,12 +15,14 @@
 	* [Study CAS](http://studycas.com/)
 	* [Swarm Lab](https://www.theswarmlab.com/)
 	* [Multi Agent Systems Lab](http://www.cs.cmu.edu/~softagents/)
+	* [Wilke Lab](https://wilkelab.org/)
 
 - **Numerical Analysis:** https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/
 - **Computational Thinking:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
 - **Design of Algorithms:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/
 - **Signals and Systems:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/
 - **Computational Science:** https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/
+- **Stochastic Processes:** https://www.stat.auckland.ac.nz/~fewster/325/index.php, https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/video-lectures/ , https://www.ee.ryerson.ca/~courses/ee8103/
 
 ### Dynamic Programming
 - http://athenasc.com/dpbook.html

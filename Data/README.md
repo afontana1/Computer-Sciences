@@ -35,7 +35,7 @@
 	* [More Resources](https://github.com/odpi/data-governance)
 	* [MDM](https://www.ibm.com/docs/en/imdm/11.6)
 
-- **Tools:** [Evaluation](https://www.dataversity.net/how-to-evaluate-a-data-governance-tool-with-20-indicators-plus-1/)
+- **Tools:**
 	* [amundsen](https://www.amundsen.io/)
 	* [datahub](https://datahub.io/)
 	* [marquez](https://marquezproject.github.io/marquez/)

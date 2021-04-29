@@ -6,6 +6,7 @@
 - [Meena AI](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
 - [R Books](https://bookdown.org/)
 - [R for Data Science](https://r4ds.had.co.nz/index.html)
+- [Ipython Notebooks](https://ipython-books.github.io/)
 
 ## Additional related courses
 - https://www.coursera.org/specializations/aml

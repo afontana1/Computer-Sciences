@@ -3,6 +3,7 @@
 - **Reliability Engineering:** https://sre.google/
 - **12 Factor App:** https://12factor.net/
 - **Martin Fowler:** https://martinfowler.com/microservices/
+- **Rosetta Code:** http://rosettacode.org/wiki/Rosetta_Code
 
 ## Python
 - **Standard Lib:** https://docs.python.org/3/library/
@@ -30,7 +31,8 @@
 	* https://www.programcreek.com/python/
 	* https://www.sanfoundry.com/python-problems-solutions/
 
-- **Data Types and Containers:** 
+- **Data Types, Containers, OOP:** 
+	* https://realpython.com/inheritance-composition-python/
 	* https://docs.python.org/3/library/datatypes.html
 	* https://docs.python.org/3/library/enum.html
 	* https://zetcode.com/python/enum/
@@ -127,6 +129,8 @@
 	* https://bottlepy.org/docs/dev/
 	* https://www.fullstackpython.com/bottle.html
 	* https://dash.plotly.com/introduction
+	* https://flask.palletsprojects.com/en/1.1.x/
+	* https://www.djangoproject.com/
 
 - **CI and Pipeline Building:**
 	* https://tox.readthedocs.io/en/latest/

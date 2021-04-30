@@ -1,9 +1,7 @@
 # Data
-- **Diagram Paradigms:** https://circle.visual-paradigm.com/diagram-examples/
-- https://en.wikipedia.org/wiki/Category:Business_process
-- https://en.wikipedia.org/wiki/Category:Evaluation_methods
-- https://commons.wikimedia.org/wiki/General_diagram_types
-- https://en.wikipedia.org/wiki/Diagram
+- [Business_process](https://en.wikipedia.org/wiki/Category:Business_process)
+- [Evaluation_methods](https://en.wikipedia.org/wiki/Category:Evaluation_methods)
+- [Systems_analysis](https://en.wikipedia.org/wiki/Systems_analysis)
 
 ## Concepts
 - [Automated reasoning](https://en.wikipedia.org/wiki/Automated_reasoning)
@@ -18,19 +16,12 @@
 - **Databases:** https://en.wikipedia.org/wiki/Category:Databases
 - **Database Management Systems:** https://en.wikipedia.org/wiki/Category:Database_management_systems
 - **Data Warehouse:** https://en.wikipedia.org/wiki/Category:Data_warehousing
-- **Data Ops:**
-	* https://medium.com/data-ops
-	* https://www.dataopsmanifesto.org/
-	* https://datakitchen.io/what-is-dataops/
-	* https://www.ibm.com/analytics/dataops
-	* https://www.ibm.com/blogs/journey-to-ai/2019/12/what-is-dataops/
+- **Data Modeling:** https://en.wikipedia.org/wiki/Category:Data_modeling
+- **Data Ops:** https://www.dataopsmanifesto.org/, https://medium.com/data-ops
 
 - **Governance:**
 	* [Dataversity](https://www.dataversity.net/)
-	* [Stanford](http://web.stanford.edu/dept/pres-provost/cgi-bin/dg/wordpress/)
-	* [Collibra](https://university.collibra.com/learn)
 	* [Data Governance Hub](https://datagovhub.elliott.gwu.edu/)
-	* [In academics](https://dmptool.org/general_guidance)
 	* [Resource Compendium](https://github.com/SuperNerb/Data-Governance-Compilation)
 	* [More Resources](https://github.com/odpi/data-governance)
 	* [MDM](https://www.ibm.com/docs/en/imdm/11.6)
@@ -46,14 +37,4 @@
 	* [governance tools](https://www.avo.app/blog/16-data-governance-tools-to-improve-data-usability-and-security-in-2020)
 	* [Sparql](https://jena.apache.org/tutorials/sparql.html)
 	* [Snowflake](https://medium.com/snowflake)
-
-- **Visualization Tools:**
-	* http://www.visualdataweb.org/
-	* http://vowl.visualdataweb.org/webvowl.html
-
-- **Knowledge Graphs:**
-	* https://blog.google/products/search/introducing-knowledge-graph-things-not/
-	* https://www.ontotext.com/knowledgehub/fundamentals/what-is-a-knowledge-graph/
-	* https://developers.google.com/knowledge-graph
-	* https://programminghistorian.org/en/lessons/retired/graph-databases-and-SPARQL
-	* https://www.w3.org/TR/sparql11-query/
+	* [knowledge-graph](https://developers.google.com/knowledge-graph)

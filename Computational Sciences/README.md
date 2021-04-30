@@ -5,6 +5,7 @@
 	* https://en.wikipedia.org/wiki/Diagram
 	* https://commons.wikimedia.org/wiki/General_diagram_types
 	* https://www.smartdraw.com/diagrams/
+	* https://circle.visual-paradigm.com/diagram-examples/
 
 - **Organizations:**
 	* [Nico](https://www.nico.northwestern.edu/)

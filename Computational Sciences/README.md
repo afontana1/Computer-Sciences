@@ -1,5 +1,6 @@
 # Computational Science related material
 
+- **Systems Science:** http://systems-sciences.uni-graz.at/etextbook/
 - **Scientific Modeling:** https://en.wikipedia.org/wiki/Category:Scientific_modeling
 - **Diagramming:** 
 	* https://en.wikipedia.org/wiki/Diagram

@@ -4,10 +4,12 @@
 - **12 Factor App:** https://12factor.net/
 - **Martin Fowler:** https://martinfowler.com/microservices/
 - **Rosetta Code:** http://rosettacode.org/wiki/Rosetta_Code
+- **Patterns:** https://python-patterns.guide/
 
 ## Python
 - **Standard Lib:** https://docs.python.org/3/library/
 - **Built-ins:** https://docs.python.org/3/library/functions.html
+- **resources:** https://wiki.python.org/moin/Documentation
 
 - **Graphing & Viz:** 
 	* https://automating-gis-processes.github.io/CSC18/index.html
